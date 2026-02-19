@@ -30,7 +30,7 @@ gcc -Wall -Werror -lm -o main main.c
 Após compilar, execute:
 
 ```bash
-./companhia
+./main
 ```
 
 O programa passa a aceitar comandos via stdin - digitado interativamente ou redirecionado a partir de um arquivo de entrada com casos de teste.
